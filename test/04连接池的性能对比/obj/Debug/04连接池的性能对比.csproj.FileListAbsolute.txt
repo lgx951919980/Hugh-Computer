@@ -1,0 +1,6 @@
+C:\Users\jiangkun\Desktop\20140709\04连接池的性能对比\bin\Debug\04连接池的性能对比.exe.config
+C:\Users\jiangkun\Desktop\20140709\04连接池的性能对比\bin\Debug\04连接池的性能对比.exe
+C:\Users\jiangkun\Desktop\20140709\04连接池的性能对比\bin\Debug\04连接池的性能对比.pdb
+C:\Users\jiangkun\Desktop\20140709\04连接池的性能对比\obj\Debug\04连接池的性能对比.csprojResolveAssemblyReference.cache
+C:\Users\jiangkun\Desktop\20140709\04连接池的性能对比\obj\Debug\04连接池的性能对比.exe
+C:\Users\jiangkun\Desktop\20140709\04连接池的性能对比\obj\Debug\04连接池的性能对比.pdb

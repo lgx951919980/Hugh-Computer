@@ -1,0 +1,6 @@
+C:\Users\jiangkun\Desktop\20140709\06修改数据\bin\Debug\06修改数据.exe.config
+C:\Users\jiangkun\Desktop\20140709\06修改数据\bin\Debug\06修改数据.exe
+C:\Users\jiangkun\Desktop\20140709\06修改数据\bin\Debug\06修改数据.pdb
+C:\Users\jiangkun\Desktop\20140709\06修改数据\obj\Debug\06修改数据.csprojResolveAssemblyReference.cache
+C:\Users\jiangkun\Desktop\20140709\06修改数据\obj\Debug\06修改数据.exe
+C:\Users\jiangkun\Desktop\20140709\06修改数据\obj\Debug\06修改数据.pdb

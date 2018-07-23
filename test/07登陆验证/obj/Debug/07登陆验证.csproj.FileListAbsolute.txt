@@ -1,0 +1,9 @@
+C:\Users\jiangkun\Desktop\20140709\07登陆验证\bin\Debug\07登陆验证.exe.config
+C:\Users\jiangkun\Desktop\20140709\07登陆验证\bin\Debug\07登陆验证.exe
+C:\Users\jiangkun\Desktop\20140709\07登陆验证\bin\Debug\07登陆验证.pdb
+C:\Users\jiangkun\Desktop\20140709\07登陆验证\obj\Debug\07登陆验证.csprojResolveAssemblyReference.cache
+C:\Users\jiangkun\Desktop\20140709\07登陆验证\obj\Debug\07登陆验证.exe
+C:\Users\jiangkun\Desktop\20140709\07登陆验证\obj\Debug\07登陆验证.pdb
+F:\课程文件\20140709_ADO.NET\20140709\07登陆验证\bin\Debug\07登陆验证.exe.config
+F:\课程文件\20140709_ADO.NET\20140709\07登陆验证\obj\Debug\07登陆验证.exe
+F:\课程文件\20140709_ADO.NET\20140709\07登陆验证\obj\Debug\07登陆验证.pdb

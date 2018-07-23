@@ -1,0 +1,9 @@
+C:\Users\jiangkun\Desktop\20140709\03执行增删改的模型ExecuteNonQuery\bin\Debug\03执行增删改的模型ExecuteNonQuery.exe.config
+C:\Users\jiangkun\Desktop\20140709\03执行增删改的模型ExecuteNonQuery\bin\Debug\03执行增删改的模型ExecuteNonQuery.exe
+C:\Users\jiangkun\Desktop\20140709\03执行增删改的模型ExecuteNonQuery\bin\Debug\03执行增删改的模型ExecuteNonQuery.pdb
+C:\Users\jiangkun\Desktop\20140709\03执行增删改的模型ExecuteNonQuery\obj\Debug\03执行增删改的模型ExecuteNonQuery.csprojResolveAssemblyReference.cache
+C:\Users\jiangkun\Desktop\20140709\03执行增删改的模型ExecuteNonQuery\obj\Debug\03执行增删改的模型ExecuteNonQuery.exe
+C:\Users\jiangkun\Desktop\20140709\03执行增删改的模型ExecuteNonQuery\obj\Debug\03执行增删改的模型ExecuteNonQuery.pdb
+F:\课程文件\20140709_ADO.NET\20140709\03执行增删改的模型ExecuteNonQuery\bin\Debug\03执行增删改的模型ExecuteNonQuery.exe.config
+F:\课程文件\20140709_ADO.NET\20140709\03执行增删改的模型ExecuteNonQuery\obj\Debug\03执行增删改的模型ExecuteNonQuery.exe
+F:\课程文件\20140709_ADO.NET\20140709\03执行增删改的模型ExecuteNonQuery\obj\Debug\03执行增删改的模型ExecuteNonQuery.pdb

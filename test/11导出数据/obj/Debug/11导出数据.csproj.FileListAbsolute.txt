@@ -1,0 +1,8 @@
+C:\Users\jiangkun\Desktop\20140709\11导出数据\bin\Debug\11导出数据.exe.config
+C:\Users\jiangkun\Desktop\20140709\11导出数据\bin\Debug\11导出数据.exe
+C:\Users\jiangkun\Desktop\20140709\11导出数据\bin\Debug\11导出数据.pdb
+C:\Users\jiangkun\Desktop\20140709\11导出数据\obj\Debug\11导出数据.exe
+C:\Users\jiangkun\Desktop\20140709\11导出数据\obj\Debug\11导出数据.pdb
+F:\课程文件\20140709_ADO.NET\20140709\11导出数据\bin\Debug\11导出数据.exe.config
+F:\课程文件\20140709_ADO.NET\20140709\11导出数据\obj\Debug\11导出数据.exe
+F:\课程文件\20140709_ADO.NET\20140709\11导出数据\obj\Debug\11导出数据.pdb

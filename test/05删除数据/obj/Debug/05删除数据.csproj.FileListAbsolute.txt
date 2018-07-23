@@ -1,0 +1,5 @@
+C:\Users\jiangkun\Desktop\20140709\05删除数据\bin\Debug\05删除数据.exe.config
+C:\Users\jiangkun\Desktop\20140709\05删除数据\bin\Debug\05删除数据.exe
+C:\Users\jiangkun\Desktop\20140709\05删除数据\bin\Debug\05删除数据.pdb
+C:\Users\jiangkun\Desktop\20140709\05删除数据\obj\Debug\05删除数据.exe
+C:\Users\jiangkun\Desktop\20140709\05删除数据\obj\Debug\05删除数据.pdb

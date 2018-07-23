@@ -1,0 +1,9 @@
+C:\Users\jiangkun\Desktop\20140709\01ADO.NET初探\bin\Debug\01ADO.NET初探.exe.config
+F:\课程文件\20140709_ADO.NET\20140709\01ADO.NET初探\bin\Debug\01ADO.NET初探.exe.config
+F:\C#基础加强\20140709_ADO.NET\20140709\01ADO.NET初探\bin\Debug\01ADO.NET初探.exe.config
+E:\BaiduNetdiskDownload\06-黑马.Net第14期（学了数据库，主要学这个就行了）\02数据库与ADO.NET(高楼大厦的钢筋和混泥土)(20140709-20140712))\20140709_ADO.NET\20140709\01ADO.NET初探\bin\Debug\01ADO.NET初探.exe.config
+E:\BaiduNetdiskDownload\06-黑马.Net第14期（学了数据库，主要学这个就行了）\02数据库与ADO.NET(高楼大厦的钢筋和混泥土)(20140709-20140712))\20140709_ADO.NET\20140709\01ADO.NET初探\bin\Debug\01ADO.NET初探.exe
+E:\BaiduNetdiskDownload\06-黑马.Net第14期（学了数据库，主要学这个就行了）\02数据库与ADO.NET(高楼大厦的钢筋和混泥土)(20140709-20140712))\20140709_ADO.NET\20140709\01ADO.NET初探\bin\Debug\01ADO.NET初探.pdb
+E:\BaiduNetdiskDownload\06-黑马.Net第14期（学了数据库，主要学这个就行了）\02数据库与ADO.NET(高楼大厦的钢筋和混泥土)(20140709-20140712))\20140709_ADO.NET\20140709\01ADO.NET初探\obj\Debug\01ADO.NET初探.csproj.CoreCompileInputs.cache
+E:\BaiduNetdiskDownload\06-黑马.Net第14期（学了数据库，主要学这个就行了）\02数据库与ADO.NET(高楼大厦的钢筋和混泥土)(20140709-20140712))\20140709_ADO.NET\20140709\01ADO.NET初探\obj\Debug\01ADO.NET初探.exe
+E:\BaiduNetdiskDownload\06-黑马.Net第14期（学了数据库，主要学这个就行了）\02数据库与ADO.NET(高楼大厦的钢筋和混泥土)(20140709-20140712))\20140709_ADO.NET\20140709\01ADO.NET初探\obj\Debug\01ADO.NET初探.pdb

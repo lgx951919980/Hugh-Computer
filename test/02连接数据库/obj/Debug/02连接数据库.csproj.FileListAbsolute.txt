@@ -1,0 +1,12 @@
+C:\Users\jiangkun\Desktop\20140709\02连接数据库\bin\Debug\02连接数据库.exe.config
+C:\Users\jiangkun\Desktop\20140709\02连接数据库\bin\Debug\02连接数据库.exe
+C:\Users\jiangkun\Desktop\20140709\02连接数据库\bin\Debug\02连接数据库.pdb
+C:\Users\jiangkun\Desktop\20140709\02连接数据库\obj\Debug\02连接数据库.csprojResolveAssemblyReference.cache
+C:\Users\jiangkun\Desktop\20140709\02连接数据库\obj\Debug\02连接数据库.exe
+C:\Users\jiangkun\Desktop\20140709\02连接数据库\obj\Debug\02连接数据库.pdb
+F:\课程文件\20140709_ADO.NET\20140709\02连接数据库\bin\Debug\02连接数据库.exe.config
+F:\课程文件\20140709_ADO.NET\20140709\02连接数据库\obj\Debug\02连接数据库.exe
+F:\课程文件\20140709_ADO.NET\20140709\02连接数据库\obj\Debug\02连接数据库.pdb
+F:\C#基础加强\20140709_ADO.NET\20140709\02连接数据库\bin\Debug\02连接数据库.exe.config
+F:\C#基础加强\20140709_ADO.NET\20140709\02连接数据库\obj\Debug\02连接数据库.exe
+F:\C#基础加强\20140709_ADO.NET\20140709\02连接数据库\obj\Debug\02连接数据库.pdb

@@ -1,0 +1,6 @@
+C:\Users\jiangkun\Desktop\20140709\09参数化查询\bin\Debug\09参数化查询.exe.config
+C:\Users\jiangkun\Desktop\20140709\09参数化查询\bin\Debug\09参数化查询.exe
+C:\Users\jiangkun\Desktop\20140709\09参数化查询\bin\Debug\09参数化查询.pdb
+C:\Users\jiangkun\Desktop\20140709\09参数化查询\obj\Debug\09参数化查询.csprojResolveAssemblyReference.cache
+C:\Users\jiangkun\Desktop\20140709\09参数化查询\obj\Debug\09参数化查询.exe
+C:\Users\jiangkun\Desktop\20140709\09参数化查询\obj\Debug\09参数化查询.pdb
