@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\bin\Debug\02Do you Love Me.exe.config
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\bin\Debug\02Do you Love Me.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\bin\Debug\02Do you Love Me.pdb
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\obj\Debug\02Do you Love Me.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\obj\Debug\_02Do_you_Love_Me.Form1.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\obj\Debug\_02Do_you_Love_Me.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\obj\Debug\02Do you Love Me.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\obj\Debug\02Do you Love Me.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\02Do you Love Me\obj\Debug\02Do you Love Me.pdb

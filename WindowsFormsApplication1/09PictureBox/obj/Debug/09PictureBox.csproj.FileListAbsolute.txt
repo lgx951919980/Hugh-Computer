@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\09PictureBox\bin\Debug\09PictureBox.exe.config
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\09PictureBox\bin\Debug\09PictureBox.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\09PictureBox\bin\Debug\09PictureBox.pdb
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\09PictureBox\obj\Debug\_09PictureBox.Form1.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\09PictureBox\obj\Debug\_09PictureBox.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\09PictureBox\obj\Debug\09PictureBox.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\09PictureBox\obj\Debug\09PictureBox.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\09PictureBox\obj\Debug\09PictureBox.pdb

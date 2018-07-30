@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\03TextBox\bin\Debug\03TextBox.exe.config
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\03TextBox\bin\Debug\03TextBox.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\03TextBox\bin\Debug\03TextBox.pdb
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\03TextBox\obj\Debug\_03TextBox.Form1.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\03TextBox\obj\Debug\_03TextBox.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\03TextBox\obj\Debug\03TextBox.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\03TextBox\obj\Debug\03TextBox.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\03TextBox\obj\Debug\03TextBox.pdb

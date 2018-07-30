@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\05简单记事本儿应用程序\bin\Debug\05简单记事本儿应用程序.exe.config
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\05简单记事本儿应用程序\bin\Debug\05简单记事本儿应用程序.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\05简单记事本儿应用程序\bin\Debug\05简单记事本儿应用程序.pdb
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\05简单记事本儿应用程序\obj\Debug\_05简单记事本儿应用程序.Form1.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\05简单记事本儿应用程序\obj\Debug\_05简单记事本儿应用程序.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\05简单记事本儿应用程序\obj\Debug\05简单记事本儿应用程序.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\05简单记事本儿应用程序\obj\Debug\05简单记事本儿应用程序.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\05简单记事本儿应用程序\obj\Debug\05简单记事本儿应用程序.pdb

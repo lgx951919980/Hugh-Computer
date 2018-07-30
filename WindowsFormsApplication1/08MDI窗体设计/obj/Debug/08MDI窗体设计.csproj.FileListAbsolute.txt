@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\08MDI窗体设计\bin\Debug\08MDI窗体设计.exe.config
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\08MDI窗体设计\bin\Debug\08MDI窗体设计.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\08MDI窗体设计\bin\Debug\08MDI窗体设计.pdb
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\08MDI窗体设计\obj\Debug\_08MDI窗体设计.Form1.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\08MDI窗体设计\obj\Debug\_08MDI窗体设计.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\08MDI窗体设计\obj\Debug\08MDI窗体设计.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\08MDI窗体设计\obj\Debug\08MDI窗体设计.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\08MDI窗体设计\obj\Debug\08MDI窗体设计.pdb

@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\10实现照片的上一张下一张翻页效果\bin\Debug\10实现照片的上一张下一张翻页效果.exe.config
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\10实现照片的上一张下一张翻页效果\bin\Debug\10实现照片的上一张下一张翻页效果.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\10实现照片的上一张下一张翻页效果\bin\Debug\10实现照片的上一张下一张翻页效果.pdb
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\10实现照片的上一张下一张翻页效果\obj\Debug\_10实现照片的上一张下一张翻页效果.Form1.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\10实现照片的上一张下一张翻页效果\obj\Debug\_10实现照片的上一张下一张翻页效果.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\10实现照片的上一张下一张翻页效果\obj\Debug\10实现照片的上一张下一张翻页效果.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\10实现照片的上一张下一张翻页效果\obj\Debug\10实现照片的上一张下一张翻页效果.exe
+C:\Users\SpringRain\Desktop\WindowsFormsApplication1\10实现照片的上一张下一张翻页效果\obj\Debug\10实现照片的上一张下一张翻页效果.pdb
