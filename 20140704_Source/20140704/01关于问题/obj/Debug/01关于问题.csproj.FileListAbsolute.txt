@@ -1,0 +1,5 @@
+C:\Users\jiangkun\Desktop\20140704\01关于问题\bin\Debug\01关于问题.exe.config
+C:\Users\jiangkun\Desktop\20140704\01关于问题\bin\Debug\01关于问题.exe
+C:\Users\jiangkun\Desktop\20140704\01关于问题\bin\Debug\01关于问题.pdb
+C:\Users\jiangkun\Desktop\20140704\01关于问题\obj\Debug\01关于问题.exe
+C:\Users\jiangkun\Desktop\20140704\01关于问题\obj\Debug\01关于问题.pdb

@@ -1,0 +1,9 @@
+C:\Users\jiangkun\Desktop\20140704\08事件\bin\Debug\08事件.exe.config
+C:\Users\jiangkun\Desktop\20140704\08事件\obj\Debug\_08事件.Form1.resources
+C:\Users\jiangkun\Desktop\20140704\08事件\obj\Debug\_08事件.Properties.Resources.resources
+C:\Users\jiangkun\Desktop\20140704\08事件\obj\Debug\08事件.csproj.GenerateResource.Cache
+C:\Users\jiangkun\Desktop\20140704\08事件\bin\Debug\08事件.exe
+C:\Users\jiangkun\Desktop\20140704\08事件\bin\Debug\08事件.pdb
+C:\Users\jiangkun\Desktop\20140704\08事件\obj\Debug\08事件.exe
+C:\Users\jiangkun\Desktop\20140704\08事件\obj\Debug\08事件.pdb
+C:\Users\jiangkun\Desktop\20140704\08事件\obj\Debug\08事件.csprojResolveAssemblyReference.cache

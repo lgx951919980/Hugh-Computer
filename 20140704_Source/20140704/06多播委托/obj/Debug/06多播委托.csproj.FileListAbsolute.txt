@@ -1,0 +1,6 @@
+C:\Users\jiangkun\Desktop\20140704\06多播委托\bin\Debug\06多播委托.exe.config
+C:\Users\jiangkun\Desktop\20140704\06多播委托\bin\Debug\06多播委托.exe
+C:\Users\jiangkun\Desktop\20140704\06多播委托\bin\Debug\06多播委托.pdb
+C:\Users\jiangkun\Desktop\20140704\06多播委托\obj\Debug\06多播委托.exe
+C:\Users\jiangkun\Desktop\20140704\06多播委托\obj\Debug\06多播委托.pdb
+C:\Users\jiangkun\Desktop\20140704\06多播委托\obj\Debug\06多播委托.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\jiangkun\Desktop\20140704\07系统自带的泛型委托\bin\Debug\07系统自带的泛型委托.exe.config
+C:\Users\jiangkun\Desktop\20140704\07系统自带的泛型委托\bin\Debug\07系统自带的泛型委托.exe
+C:\Users\jiangkun\Desktop\20140704\07系统自带的泛型委托\bin\Debug\07系统自带的泛型委托.pdb
+C:\Users\jiangkun\Desktop\20140704\07系统自带的泛型委托\obj\Debug\07系统自带的泛型委托.exe
+C:\Users\jiangkun\Desktop\20140704\07系统自带的泛型委托\obj\Debug\07系统自带的泛型委托.pdb
+C:\Users\jiangkun\Desktop\20140704\07系统自带的泛型委托\obj\Debug\07系统自带的泛型委托.csprojResolveAssemblyReference.cache

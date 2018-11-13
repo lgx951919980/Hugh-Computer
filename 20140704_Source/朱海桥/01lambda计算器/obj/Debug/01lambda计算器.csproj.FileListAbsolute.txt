@@ -1,0 +1,6 @@
+C:\Users\jiangkun\Desktop\朱海桥\01lambda计算器\bin\Debug\01lambda计算器.exe.config
+C:\Users\jiangkun\Desktop\朱海桥\01lambda计算器\bin\Debug\01lambda计算器.exe
+C:\Users\jiangkun\Desktop\朱海桥\01lambda计算器\bin\Debug\01lambda计算器.pdb
+C:\Users\jiangkun\Desktop\朱海桥\01lambda计算器\obj\Debug\01lambda计算器.csprojResolveAssemblyReference.cache
+C:\Users\jiangkun\Desktop\朱海桥\01lambda计算器\obj\Debug\01lambda计算器.exe
+C:\Users\jiangkun\Desktop\朱海桥\01lambda计算器\obj\Debug\01lambda计算器.pdb

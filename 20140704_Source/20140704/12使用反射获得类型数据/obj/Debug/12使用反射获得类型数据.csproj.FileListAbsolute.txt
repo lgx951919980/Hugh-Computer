@@ -1,0 +1,5 @@
+C:\Users\jiangkun\Desktop\20140704\12使用反射获得类型数据\bin\Debug\12使用反射获得类型数据.exe.config
+C:\Users\jiangkun\Desktop\20140704\12使用反射获得类型数据\bin\Debug\12使用反射获得类型数据.exe
+C:\Users\jiangkun\Desktop\20140704\12使用反射获得类型数据\bin\Debug\12使用反射获得类型数据.pdb
+C:\Users\jiangkun\Desktop\20140704\12使用反射获得类型数据\obj\Debug\12使用反射获得类型数据.exe
+C:\Users\jiangkun\Desktop\20140704\12使用反射获得类型数据\obj\Debug\12使用反射获得类型数据.pdb

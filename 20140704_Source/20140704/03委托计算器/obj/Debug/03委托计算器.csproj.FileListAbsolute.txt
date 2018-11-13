@@ -1,0 +1,6 @@
+C:\Users\jiangkun\Desktop\20140704\03委托计算器\bin\Debug\03委托计算器.exe.config
+C:\Users\jiangkun\Desktop\20140704\03委托计算器\bin\Debug\03委托计算器.exe
+C:\Users\jiangkun\Desktop\20140704\03委托计算器\bin\Debug\03委托计算器.pdb
+C:\Users\jiangkun\Desktop\20140704\03委托计算器\obj\Debug\03委托计算器.exe
+C:\Users\jiangkun\Desktop\20140704\03委托计算器\obj\Debug\03委托计算器.pdb
+C:\Users\jiangkun\Desktop\20140704\03委托计算器\obj\Debug\03委托计算器.csprojResolveAssemblyReference.cache

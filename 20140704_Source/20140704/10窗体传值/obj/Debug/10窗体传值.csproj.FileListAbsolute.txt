@@ -1,0 +1,10 @@
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\bin\Debug\10窗体传值.exe.config
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\bin\Debug\10窗体传值.exe
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\bin\Debug\10窗体传值.pdb
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\obj\Debug\_10窗体传值.Form1.resources
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\obj\Debug\_10窗体传值.Properties.Resources.resources
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\obj\Debug\10窗体传值.csproj.GenerateResource.Cache
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\obj\Debug\10窗体传值.exe
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\obj\Debug\10窗体传值.pdb
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\obj\Debug\_10窗体传值.Form2.resources
+C:\Users\jiangkun\Desktop\20140704\10窗体传值\obj\Debug\10窗体传值.csprojResolveAssemblyReference.cache

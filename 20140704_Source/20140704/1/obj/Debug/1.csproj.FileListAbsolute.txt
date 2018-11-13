@@ -1,0 +1,4 @@
+C:\Users\jiangkun\Desktop\20140704\1\bin\Debug\1.dll
+C:\Users\jiangkun\Desktop\20140704\1\bin\Debug\1.pdb
+C:\Users\jiangkun\Desktop\20140704\1\obj\Debug\1.dll
+C:\Users\jiangkun\Desktop\20140704\1\obj\Debug\1.pdb

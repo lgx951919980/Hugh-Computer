@@ -1,0 +1,5 @@
+C:\Users\jiangkun\Desktop\20140704\04匿名方法\bin\Debug\04匿名方法.exe.config
+C:\Users\jiangkun\Desktop\20140704\04匿名方法\bin\Debug\04匿名方法.exe
+C:\Users\jiangkun\Desktop\20140704\04匿名方法\bin\Debug\04匿名方法.pdb
+C:\Users\jiangkun\Desktop\20140704\04匿名方法\obj\Debug\04匿名方法.exe
+C:\Users\jiangkun\Desktop\20140704\04匿名方法\obj\Debug\04匿名方法.pdb

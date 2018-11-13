@@ -1,0 +1,6 @@
+C:\Users\jiangkun\Desktop\20140704\02委托变量作为参数使用\bin\Debug\02委托变量作为参数使用.exe.config
+C:\Users\jiangkun\Desktop\20140704\02委托变量作为参数使用\bin\Debug\02委托变量作为参数使用.exe
+C:\Users\jiangkun\Desktop\20140704\02委托变量作为参数使用\bin\Debug\02委托变量作为参数使用.pdb
+C:\Users\jiangkun\Desktop\20140704\02委托变量作为参数使用\obj\Debug\02委托变量作为参数使用.exe
+C:\Users\jiangkun\Desktop\20140704\02委托变量作为参数使用\obj\Debug\02委托变量作为参数使用.pdb
+C:\Users\jiangkun\Desktop\20140704\02委托变量作为参数使用\obj\Debug\02委托变量作为参数使用.csprojResolveAssemblyReference.cache

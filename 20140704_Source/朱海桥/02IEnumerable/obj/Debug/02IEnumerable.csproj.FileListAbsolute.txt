@@ -1,0 +1,5 @@
+C:\Users\jiangkun\Desktop\朱海桥\02IEnumerable\bin\Debug\02IEnumerable.exe.config
+C:\Users\jiangkun\Desktop\朱海桥\02IEnumerable\bin\Debug\02IEnumerable.exe
+C:\Users\jiangkun\Desktop\朱海桥\02IEnumerable\bin\Debug\02IEnumerable.pdb
+C:\Users\jiangkun\Desktop\朱海桥\02IEnumerable\obj\Debug\02IEnumerable.exe
+C:\Users\jiangkun\Desktop\朱海桥\02IEnumerable\obj\Debug\02IEnumerable.pdb

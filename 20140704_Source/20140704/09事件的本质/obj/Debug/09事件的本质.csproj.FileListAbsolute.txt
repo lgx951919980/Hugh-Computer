@@ -1,0 +1,5 @@
+C:\Users\jiangkun\Desktop\20140704\09事件的本质\bin\Debug\09事件的本质.exe.config
+C:\Users\jiangkun\Desktop\20140704\09事件的本质\bin\Debug\09事件的本质.exe
+C:\Users\jiangkun\Desktop\20140704\09事件的本质\bin\Debug\09事件的本质.pdb
+C:\Users\jiangkun\Desktop\20140704\09事件的本质\obj\Debug\09事件的本质.exe
+C:\Users\jiangkun\Desktop\20140704\09事件的本质\obj\Debug\09事件的本质.pdb
